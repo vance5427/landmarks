@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FA70448A2C16048A0060618F /* turtlerock@2x.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FA7044892C16048A0060618F /* turtlerock@2x.jpg */; };
 		FA9773C02C15F5700028BA1A /* landmarksApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA9773BF2C15F5700028BA1A /* landmarksApp.swift */; };
 		FA9773C22C15F5700028BA1A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA9773C12C15F5700028BA1A /* ContentView.swift */; };
 		FA9773C42C15F5700028BA1A /* Item.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA9773C32C15F5700028BA1A /* Item.swift */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		FA7044892C16048A0060618F /* turtlerock@2x.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "turtlerock@2x.jpg"; path = "../../../turtlerock@2x.jpg"; sourceTree = "<group>"; };
 		FA9773BC2C15F5700028BA1A /* landmarks.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = landmarks.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FA9773BF2C15F5700028BA1A /* landmarksApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = landmarksApp.swift; sourceTree = "<group>"; };
 		FA9773C12C15F5700028BA1A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -100,6 +102,7 @@
 				FA9773C12C15F5700028BA1A /* ContentView.swift */,
 				FA9773C32C15F5700028BA1A /* Item.swift */,
 				FA9773C52C15F5710028BA1A /* Assets.xcassets */,
+				FA7044892C16048A0060618F /* turtlerock@2x.jpg */,
 				FA9773C72C15F5710028BA1A /* Preview Content */,
 			);
 			path = landmarks;
@@ -234,6 +237,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FA70448A2C16048A0060618F /* turtlerock@2x.jpg in Resources */,
 				FA9773C92C15F5710028BA1A /* Preview Assets.xcassets in Resources */,
 				FA9773C62C15F5710028BA1A /* Assets.xcassets in Resources */,
 			);
